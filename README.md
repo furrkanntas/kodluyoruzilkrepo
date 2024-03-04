@@ -21,3 +21,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Mavi Soluk Nokta](https://images.app.goo.gl/KgNkEXLbAFHS3K42A)
