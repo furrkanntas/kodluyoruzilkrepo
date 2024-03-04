@@ -22,4 +22,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Mavi Soluk Nokta](https://images.app.goo.gl/KgNkEXLbAFHS3K42A)
+![Mavi Soluk Nokta](https://picsum.photos/seed/picsum/200/300)
